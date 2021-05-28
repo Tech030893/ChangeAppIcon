@@ -80,6 +80,11 @@
                             <constraint firstItem="eny-G2-Nm8" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="yVg-g0-z3n"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="bikeBtn" destination="eny-G2-Nm8" id="VDX-w0-M9L"/>
+                        <outlet property="carBtn" destination="pDP-fT-Nzw" id="tgj-UH-lXf"/>
+                        <outlet property="truckBtn" destination="TNU-QZ-Qv8" id="9hX-lu-6yj"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
