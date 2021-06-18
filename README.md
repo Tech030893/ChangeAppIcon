@@ -3,7 +3,7 @@
 This Application lets user to change app icon dynamically. App is created programmatically as well as using storyboard.
 
 ## Programming language used
-- Swift
+- Swift 5
 
 ## Deployment Info
 - iOS 14.3
